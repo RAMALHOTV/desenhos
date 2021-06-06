@@ -1,5 +1,16 @@
 <channels>
 <channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]DESENHOS..VIA..TORRENTS[COLOR white]  [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://ondebaixa.com/imagens/sessao-pipoca-com-a-pixar-1-temporada-completa-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/DESENHOS-TORENTES/main/README.md</externallink>
+<fanart>https://i.ytimg.com/vi/Hnjy9r52ljU/maxresdefault.jpg</fanart>
+<info>[B][COLOR yellow]  [/B][/COLOR]</info>
+##########################################################################################################################
+ 
+
+
+<channels>
+<channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]Os Jovens Titas em Acao [COLOR white]  [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://br.web.img2.acsta.net/pictures/15/07/01/17/34/583361.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/Os-Jovens-Titas-em-Acao/main/README.md</externallink>
